@@ -1,2 +1,7 @@
-package dads;public class aaa {
+package dads;
+
+public class aaa {
+    public static void main(String[] args) {
+
+    }
 }
